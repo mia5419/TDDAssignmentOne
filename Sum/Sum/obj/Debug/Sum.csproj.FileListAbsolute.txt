@@ -1,0 +1,5 @@
+C:\Code\TDD\HomeWork_one\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Code\TDD\HomeWork_one\Sum\Sum\bin\Debug\Sum.exe
+C:\Code\TDD\HomeWork_one\Sum\Sum\bin\Debug\Sum.pdb
+C:\Code\TDD\HomeWork_one\Sum\Sum\obj\Debug\Sum.exe
+C:\Code\TDD\HomeWork_one\Sum\Sum\obj\Debug\Sum.pdb

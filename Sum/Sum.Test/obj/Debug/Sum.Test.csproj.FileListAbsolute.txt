@@ -1,0 +1,6 @@
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\bin\Debug\Sum.Test.dll
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\bin\Debug\Sum.Test.pdb
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\obj\Debug\Sum.Test.csprojResolveAssemblyReference.cache
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\obj\Debug\Sum.Test.dll
+C:\Code\TDD\HomeWork_one\Sum\Sum.Test\obj\Debug\Sum.Test.pdb
